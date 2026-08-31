@@ -1,5 +1,6 @@
 # Automated AI Avatar Video Generation Pipeline for High-Conversion Marketing
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v2.4.0--stable-brightgreen.svg" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
